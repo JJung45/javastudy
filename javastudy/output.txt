@@ -1,0 +1,6 @@
+#Properties Example
+#Sat Dec 22 10:32:05 KST 2018
+size=10
+laguage=\uD55C\uAE00
+timeout=30
+capacity=10
